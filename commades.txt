@@ -10,4 +10,4 @@ Vim Menu.txt
 git add Menu.txt
 git commit -m "ajout de garba au menu"
 git push origin master
-
+git diff bbef2e164583f6e6e18863416517f919fb6ae4d4
