@@ -1,0 +1,32 @@
+diff --git a/Menu.txt b/Menu.txt
+new file mode 100644
+index 0000000..b56bcba
+--- /dev/null
++++ b/Menu.txt
+@@ -0,0 +1,6 @@
++Steak tartare
++Salade norvegienne
++Filet de dorade
+diff --git a/Menu.txt b/Menu.txt
+new file mode 100644
+index 0000000..b56bcba
+--- /dev/null
++++ b/Menu.txt
+@@ -0,0 +1,6 @@
++Steak tartare
++Salade norvegienne
++Filet de dorade
++Bar à la citronnelle
++tchep
++
+diff --git a/commades.txt b/commades.txt
+new file mode 100644
+index 0000000..2b612d2
+--- /dev/null
++++ b/commades.txt
+@@ -0,0 +1,13 @@
++git clone https://github.com/Sylla225/TD-1.git
++cd TD-1  
++touch Menu.txt
++vim Menu.txt
+
