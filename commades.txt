@@ -15,4 +15,16 @@ Cd ..
 Mkdir tmp
 Cd tmp
 Git clone https://github.com/ramsey101/TD-1.git
+Cd TD-1
+Vim Menu.txt
+Git add Menu.txt
+Git commit -m "menu du dossier tmp"
+Git push origin master
+Cd ..
+Cd ..
+Cd TD-1
+Vim Menu.txt
+git add Menu.txt
+git commit -m "ajout de 2 nouveaux plats "
+
 
