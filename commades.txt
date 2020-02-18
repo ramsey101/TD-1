@@ -1,0 +1,12 @@
+git clone https://github.com/Sylla225/TD-1.git
+cd TD-1  
+touch Menu.txt
+vim Menu.txt
+Enregistrement des menus 
+Cat Menu.txt
+git add Menu.txt
+git commit -m "Premier enregistrement des menus"
+Vim Menu.txt
+git add Menu.txt
+git commit -m "ajout de garba au menu"
+git push origin master
